@@ -1,0 +1,198 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Yijia Weng</title>
+  
+  <meta name="author" content="Yijia Weng">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/floral_icon.png">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Yijia Weng | 翁伊嘉</name>
+              </p>
+              <p>I am a first-year Ph.D. student in computer science at Stanford University, rotating with Prof. <a href="https://web.stanford.edu/~bohg/">Jeannette Bohg</a> and Prof. <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>. Previously, I obtained my B.S. in Computer Science from Turing Class, Peking University, advised by Prof. <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>. I also had the privilege of working closely with Prof. <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> at UCSD and Prof. <a href="https://hughw19.github.io/">He Wang</a> at Peking University.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:yijiaw@stanford.edu">Email</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?hl=en&user=yeuv8L4AAAAJ">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://github.com/halfsummer11/">Github</a>
+              </p>
+            </td>
+            <td style="padding:2.5%;width:40%;max-width:40%">
+              <a href="images/yijia.png"><img style="width:100%;max-width:100%" alt="profile photo" src="images/yijia.png" class="hoverZoomLink"></a>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Research</heading>
+              <p>
+			  My research interests are in computer vision&#x1F441; and robotics&#x1f916;, with a goal to design algorithms that empower computers to perceive and interact with the complexities of the real world just as human do. I'm particularly interested in interaction-driven object perception.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+        <tr>
+            <td style="padding:10px;width:30%;vertical-align:middle">
+              <img src='images/equipose.png' width="100%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle">
+              <papertitle>Leveraging SE(3) Equivariance for Self-supervised Category-Level Object Pose Estimation from Point Clouds</papertitle>
+              <br>
+              <a href="http://dragonlong.github.io/">Xiaolong Li</a>,
+              <strong>Yijia Weng</strong>,
+              <a href="https://ericyi.github.io/">Li Yi</a>,
+              <a href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas Guibas</a>,
+              <a href="https://ece.vt.edu/people/profile/abbott">A. Lynn Abbott</a>,
+              <a href="https://www.cs.columbia.edu/~shurans/">Shuran Song</a>,
+              <a href="https://hughw19.github.io/">He Wang</a>
+              <br>
+              <em>NeurIPS</em>, 2021
+              <br>
+              <a href="https://dragonlong.github.io/equi-pose/">project page</a> /
+              <a href="https://arxiv.org/abs/2111.00190">arXiv</a>
+              <p></p>
+            </td>
+         </tr>
+
+
+         <tr>
+            <td style="padding:10px;width:30%;vertical-align:middle">
+              <img src='images/captra.gif' width="100%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle">
+              <papertitle>CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds</papertitle>
+              <br>
+              <strong>Yijia Weng*</strong>,
+              <a href="https://hughw19.github.io/">He Wang*</a>,
+              <a href="https://github.com/bamboosdu">Qiang Zhou</a>,
+              <a href="https://yzqin.github.io">Yuzhe Qin</a>,
+              <a href="https://geometry.stanford.edu/member/duanyq19/index.html">Yueqi Duan</a>,
+              <a href="https://fqnchina.github.io">Qingnan Fan</a>,
+              <br>
+              <a href="https://cfcs.pku.edu.cn/baoquan">Baoquan Chen</a>,
+              <a href="https://cseweb.ucsd.edu/~haosu">Hao Su</a>,
+              <a href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas Guibas</a>
+              <br>
+              <em>ICCV</em>, 2021 <span class="badge">Oral Presentation</span>
+              <br>
+              <a href="https://yijiaweng.github.io/CAPTRA/">project page</a> /
+              <a href="https://youtu.be/EkcCEj7gZGg">video</a> /
+              <a href="https://arxiv.org/abs/2104.03437">arXiv</a> /
+              <a href="https://github.com/halfsummer11/CAPTRA">code</a>
+              <p></p>
+            </td>
+         </tr>
+
+          <tr>
+            <td style="padding:10px;width:30%;vertical-align:middle">
+              <img src='images/mst.gif' width="100%">
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle">
+              <papertitle>Unpaired Motion Style Transfer from Video to Animation</papertitle>
+              <br>
+
+              <a href="http://kfiraberman.github.io/">Kfir Aberman*</a>,
+              <strong>Yijia Weng*</strong>,
+              <a href="https://www.cse.huji.ac.il/~danix/">Dani Lischinski</a>,
+              <a href="https://danielcohenor.com/">Daniel Cohen-Or</a>,
+              <a href="https://cfcs.pku.edu.cn/baoquan">Baoquan Chen</a>
+              <br>
+							<em>SIGGRAPH</em>, 2020
+              <br>
+              <a href="https://deepmotionediting.github.io/style_transfer">project page</a> /
+              <a href="https://youtu.be/m04zuBSdGrc">video</a> /
+              <a href="https://arxiv.org/abs/2005.05751">arXiv</a> /
+              <a href="https://github.com/DeepMotionEditing/deep-motion-editing">code</a>
+              <p></p>
+            </td>
+          </tr>
+
+
+
+
+        </tbody></table>
+
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+          <tr>
+            <td>
+              <heading>Experience</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table width="100%" align="center" border="0" cellpadding="10"><tbody>
+          <tr>
+            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><img src="images/stanford_university.png", width="90%"></td>
+            <td width="80%" valign="center">
+              <b>Stanford University</b>, CA
+              <br> 2021.09 - Present
+              <br>
+              <br> <b>Ph.D. Student in Computer Science</b>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><img src="images/peking_university.png", width="90%"></td>
+            <td width="80%" valign="center">
+              <b>Peking University</b>, China
+              <br> 2017.09 - 2021.07
+              <br>
+              <br> <b>B.S. in Computer Science</b>, Turing Class
+              <br> Advisor: Prof. <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-left:20px;padding-right:20px;width:20%;vertical-align:middle"><img src="images/stanford_university.png", width="90%"></td>
+            <td width="80%" valign="center">
+              <b>Stanford University</b>, CA
+              <br> 2020.03 - 2020.11
+              <br>
+              <br> <b>Visiting Research Student</b> through the <a href="https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr">UGVR program</a>
+              <br> Advisor: Prof. <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>
+            </td>
+          </tr>
+
+        </tbody></table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Miscellaneous</heading>
+              <p>
+                I was quite into competitive programming&#128187; and used to compete in Olympiad in Informatics and <a href="https://icpc.global/">International Collegiate Programming Contest (ICPC)</a>&#127941;.
+                Now I also train high school students back at home. Solving those brain teasers is always fun!
+                <br> Away from computers, I enjoy learning foreign languages, watching musicals&#127917;&#127926;, and cooking&#127859;.
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+
+		<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:right;font-size:small;">
+              Template stolen from <a href="https://jonbarron.info/">Jon Barron</a>. Thanks for stopping by :)
+              <br> Last updated: Nov 6, 2021 
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
