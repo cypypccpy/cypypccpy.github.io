@@ -126,6 +126,15 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+/* .php {
+  text-decoration: underline;
+  color: blue;
+} */
+
+.php {
+  border-bottom: 2px solid #09f;
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
